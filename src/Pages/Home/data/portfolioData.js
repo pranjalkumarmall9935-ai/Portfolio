@@ -103,7 +103,7 @@ export const projects = [
     outcome:
       "Created a modern portfolio with smooth animations and responsive UI.",
     tech: ["React", "Tailwind CSS", "JavaScript"],
-    github: "YOUR_GITHUB_LINK",
+    github: "https://github.com/pranjalkumarmall9935-ai/Portfolio",
     live: "YOUR_PORTFOLIO_LINK"
   }
 ];
