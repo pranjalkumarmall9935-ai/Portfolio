@@ -277,7 +277,7 @@ export const achievements = [
   {
     title: "Codeforces",
     
-    image: "https://sta.codeforces.com/s/0/images/codeforces-logo-with-telegram.png",
+    image: "/img/codeforces.png",
     description:
       "Regular competitive programming contestant with experience solving algorithmic challenges under time constraints.",
     link: "https://codeforces.com/profile/"
