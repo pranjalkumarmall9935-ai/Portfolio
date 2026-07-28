@@ -22,7 +22,7 @@ export const personalInfo = {
   summary: 
   "Frontend Developer and Information Technology student skilled in React.js, Next.js, JavaScript, and the MERN Stack. Experienced in building responsive web applications, integrating REST APIs, and creating clean, scalable user interfaces with a strong foundation in Data Structures and Algorithms.",
   heroBadges: ["React Native", "React.js", "TypeScript", "Android & iOS"],
-  resume: "/Resume.pdf",
+  resume: "/Resume_Pranjal.pdf",
  profileHighlights: [
   "Frontend Web Development",
   "MERN Stack Development",
